@@ -111,6 +111,7 @@ body{
 }
 
 }
+/*Ebcabezado de pagina*/
 
 figure{
 	max-width: 200px;
@@ -120,9 +121,19 @@ figure{
 	display: block;
 }
 
+.imgsec img{
+	width: auto;
+	height: auto;
+	max-width: 600px;
+	max-height: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
 .espaciador{
-	height: 500px;
-	width: 500px;
+	height: 600px;
+	width: 600px;
 	border: transparent;
 }
 

@@ -111,3 +111,16 @@ body{
 }
 
 }
+
+.listas{
+	height: 600px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.listas th{
+	font-family: serif;
+	font-size:30px;
+	font-weight: bold; 
+}
