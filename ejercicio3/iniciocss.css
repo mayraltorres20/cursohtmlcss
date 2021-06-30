@@ -1,0 +1,33 @@
+/*Ebcabezado de pagina*/
+.navbar-custom {
+    background-color: #8B0000 !important;
+    
+}
+.navbar-brand{
+	color:  #FFB6C1 !important;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.nav-item{
+	font-size: 20px;
+	margin: 0 10px;
+	line-height: 30px;
+	text-transform: uppercase;
+}
+.nav-link{
+	color: #FFB6C1 !important;
+}
+.nav-link:hover{
+	background-color: #FFF0F5 !important;
+	transition: 0.5s;
+	color: #B22222 !important;
+}
+
+.card-1 img{
+	height: auto;
+	width: auto;
+	max-height: 350px !important;
+	max-width: 300px !important;
+
+}

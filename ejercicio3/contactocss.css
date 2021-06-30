@@ -1,0 +1,31 @@
+/*Ebcabezado de pagina*/
+.navbar-custom {
+    background-color: #8B0000 !important;
+    
+}
+.navbar-brand{
+	color:  #FFB6C1 !important;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.nav-item{
+	font-size: 20px;
+	margin: 0 10px;
+	line-height: 50px;
+	text-transform: uppercase;
+}
+.nav-link{
+	color: #FFB6C1 !important;
+}
+.nav-link:hover{
+	background-color: #FFF0F5 !important;
+	transition: 0.5s;
+	color: #B22222 !important;
+}
+/*Contenido pagina*/
+.mb-3{
+	font-family: serif;
+	font-size:20px;
+	font-weight: bold; 
+	color: #000000;
